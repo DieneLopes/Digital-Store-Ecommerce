@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.div-footer-img {
+    display: flex;
+}
+
+.div-margin-padrao {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-principal {
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 106px; */
+    padding: 72px 100px;
+    padding-bottom: 34px;
+    flex-direction: column;
+}
+
+.footer-home{
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 106px;
+    padding: 72px 100px;
+    padding-bottom: 34px;
+    flex-direction: column;
+}
+
+.layoutFooter{
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 106px; */
+    padding: 72px 100px;
+    padding-bottom: 34px;
+    flex-direction: column;
+}
+
+.div-digitalstore{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    flex-direction: column;
+}
+
+.nome-digital {
+    padding-left: 8px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36.3951px;
+    line-height: 44px;    
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
+
+.div-imgfooter {
+    width: 33px;
+    height: 44px;
+    left: 8px;
+}
+
+.texto-footer {
+    width: 307px;
+    height: 78px;
+    left: 100px;
+    top: 151px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    white-space: nowrap;
+    color: #FFFFFF;
+}
+
+.icons-footer {
+    margin-top: 40px ; 
+}
+
+.icon-face {
+    width: 10.92px;
+    height: 20.53px;
+    left: 100px;
+}
+
+.icon-insta {
+    left: 10.14%;
+    right: 88.47%;
+    padding-right: 36px;
+    padding-left: 36px;
+}
+
+.icon-tt {
+    width: 22.12px;
+    height: 18.24px;
+    left: 202px;
+}
+
+ul li {
+    padding-bottom: 15px;
+}
+
+.div-informacao {
+    padding-left: 102px;
+    margin-left: 205px;
+}
+
+.informacao-titulo {
+    width: 99px;
+    height: 22px;
+    top: 72px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 28px;
+    color:#FFFFFF;
+}
+
+.informacao2 {
+    width: 200px;
+    height: 228px;
+    font-family: 'Inter', sans serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    white-space: nowrap;
+    padding-bottom: 34px;
+    color:#FFFFFF;   
+}
+
+.categoria-geral {
+    margin-right: 170px;
+}
+
+.categoria-titulo {
+    width: 96px;
+    height: 22px;
+    top: 72px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 28px;
+    color:#FFFFFF;
+}
+
+.categoria-footer {
+    width: 96px;
+    height: 190px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    white-space: nowrap;
+    padding-bottom: 72px;
+    color:#FFFFFF;
+}
+
+.contato-titulo {
+    width: 71px;
+    height: 22px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 28px;
+}
+
+.contato-footer {
+    width: 135px;
+    height: 78px;
+    left: 612px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-right: 96px;
+    white-space: nowrap;
+    color: #FFFFFF;
+}
+
+.numerofooter {
+    width: 135px;
+    height: 26px;
+    padding-top: 14px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color:#FFFFFF;
+}
+
+.finalfooter {
+    margin-top: 69px;
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-top: 1px solid white;
+    color:#FFFFFF;
+}   
+
+.digitalpequeno {
+    font-family: 'Inter', sans serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    display: flex;
+    padding-top: 22px;
+    align-items: center;
+    color:#FFFFFF;
+}

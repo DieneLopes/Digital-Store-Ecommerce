@@ -1,0 +1,15 @@
+.imagemCategoria{
+    font-weight: 700;
+    font-size: 4rem;
+    margin: 40px auto;
+    font-family: 'Inter';
+    color: #C92071;
+}
+
+.caixaCategoria {
+    height: 500px;
+    background-image: url('../../assets/categoria/pexels-lumn-406014.jpg');
+    background-size: contain;
+    display: flex;
+
+}

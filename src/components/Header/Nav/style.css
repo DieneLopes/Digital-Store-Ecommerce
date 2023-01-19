@@ -1,0 +1,174 @@
+.navegacao{
+    display: none;
+}
+
+.semNada {
+    
+}
+
+
+.home {
+    
+    /* position: absolute; */
+    width: 60px;
+    height: 28px;
+    top: 134px;
+    left: 117px;
+    right: 1291px;
+    bottom: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;    
+    letter-spacing: 0.75px;
+    color: #474747; 
+    text-decoration: none;       
+}
+
+.produtos {
+    /* position: absolute; */
+    width: 74px;
+    height: 28px;
+    left: 181px;
+    right: 1185px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.categorias {
+    /* position: absolute; */
+    width: 89px;
+    height: 28px;
+    left: 287px;
+    right: 1064px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.meus-pedidos {
+    /* position: absolute; */
+    width: 155px;
+    height: 28px;
+    left: 408px;
+    right: 917px;
+    top: 140px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px 145%;
+    text-align: center;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #474747;
+}
+
+.meus-pedidos:hover, .categorias:hover, .produtos:hover, .home:hover{
+    color: #474747;
+}
+
+/*css para quando estiver na página selecionada*/
+.ativarHome {
+    /* position: absolute; */
+    width: 74px;
+    height: 28px;
+    top: 134px;
+    left: 117px;
+    right: 1291px;
+    bottom: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;    
+    letter-spacing: 0.75px;
+    color: #C92071; 
+    text-decoration: underline;
+}
+
+.ativarProdutos {
+    /* position: absolute; */
+    width: 74px;
+    height: 28px;
+    left: 181px;
+    right: 1185px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    color: #C92071; 
+    text-decoration: underline;
+}
+
+.ativarCategorias {
+    /* position: absolute; */
+    width: 89px;
+    height: 28px;
+    left: 287px;
+    right: 1064px;
+    top: 134px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.75px;
+    padding-left: 32px;
+    color: #C92071; 
+    text-decoration: underline;
+}
+
+.ativarMeus-pedidos {
+    /* position: absolute; */
+    width: 115px;
+    height: 28px;
+    left: 408px;
+    right: 917px;
+    top: 140px;
+    bottom: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px 145%;
+    text-align: center;
+    padding-left: 32px;
+    color: #C92071; 
+    text-decoration: underline;
+}
+
+.ativarHome:hover, .ativarCategorias:hover, .ativarMeus-pedidos:hover, .ativarProdutos:hover{
+    color: #C92071;
+}

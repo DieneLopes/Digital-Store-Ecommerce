@@ -1,0 +1,138 @@
+.meus-pedidos-selecionados-body {
+    display: flex;
+    flex-direction: column;
+    width: 890px;
+    height: 580px;
+    margin-left: 449px;   
+    margin-top: 80px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+
+.meus-pedidos {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.75px;
+    color: #474747;
+    padding-top: 30px;
+    padding-left: 30px;
+    /* padding-bottom: 10px; */
+}
+
+.status {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    color: #474747;
+    padding-left: 774px;
+    padding-bottom: 10px;
+}
+
+.linha {
+    width: 830px;
+    height: 0px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+.coluna-geral {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    width: 512.18px;
+    height: 58px;
+    flex: content;
+    order: 0;
+    flex-grow: 0;
+}
+
+.coluna-pedido {
+    display: flex;
+    flex-direction: column;
+    width: 421px;
+    height: 42px;
+    flex: content;
+    margin-top: 0px;
+}
+
+.imagem-tenis {
+    width: 150px;
+    height: 140px;
+    padding-left: 10px;
+}
+
+.numero-pedido {
+    display: flex;
+    width: 420.82px;
+    height: 22px;
+    padding-top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    color: #8F8F8F;
+}
+
+.descricao-produto {
+    width: 420.82px;
+    height: 20px;
+    padding-top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.75px;
+    color: #1F1F1F;
+}
+
+.status-produto {
+    width: 150px;
+    height: 20px;
+    padding-left: 550px;
+    padding-right: 30px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.75px;
+    color: #F6AA1C;
+    white-space: nowrap;
+}
+
+.status-finalizado {
+    width: 77px;
+    height: 20px;
+    padding-left: 620px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.75px;
+    color: #8F8F8F;
+}
+
+.status-cancelado {
+    width: 80px;
+    height: 20px;
+    padding-left: 620px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.75px;
+    color: #EE4266;
+}
