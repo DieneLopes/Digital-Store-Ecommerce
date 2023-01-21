@@ -1,5 +1,5 @@
-## Digital-Store
-# Projeto proposto pela Digital College para testar nossas habilidades em curto prazo.
+## Digital-Store E-commerce
+# Projeto de e-commerce proposto pela Digital College para testar nossas habilidades em curto prazo.
 - Foi proposto um layout no Figma, realizando fielmente o que foi pedido.
 ---------------------------------------------------------------------------------------------
 # Front-End:
