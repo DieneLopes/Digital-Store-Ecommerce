@@ -19,10 +19,10 @@
 - Express.js
 ----------------------------------------------------------------------------------------------
 
-# Comando para utilizar o nosso projeto : 
-- Ter instalado o Node.js.
+# Comandos para executar o nosso projeto no seu computador: 
+- Ter instalado previamente o Node.JS.
 - Executar no terminal `npm install && npm start` para adicionar o node_modules.
-=> Com esse comando você irá baixar as bibliotecas necessária para a funcionaliadades do projeto e iniciará o servidor do React.js.
+=> Você irá baixar as bibliotecas necessária para a funcionaliadades do projeto e iniciará o servidor do React.js.
 ----------------------------------------------------------------------------------------------
 ## Squad
 ================================================================================
